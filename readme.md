@@ -1,5 +1,5 @@
 
-# PEADL: 🚀 LLM 驱动的蛋白质设计自动化发现实验室🧬💡
+# PEADL: 🚀 LLM 驱动的蛋白质自动化设计实验室🧬💡
 
 **PEADL (Protein Engineering Automated Discovery Laboratory)** 是一个开创性的平台，利用大型语言模型 (LLM) 的强大能力，赋能蛋白质设计与工程的自主化发现。我们致力于通过自动化流程和前沿的 AI 技术，加速蛋白质的创新设计与优化，推动生物技术和医药领域的突破性进展。
 
