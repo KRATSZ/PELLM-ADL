@@ -54,7 +54,7 @@ PEADL 采用先进的多智能体架构，各司其职，协同完成复杂的�
 要安装并运行 PEADL 项目，您需要以下环境和依赖：
 
 - Python 3.8+
-- (列出关键依赖，如 `tensorflow`, `torch`, `biopython`, `transformers` 等，用代码块包裹)
+- `tensorflow`, `torch`, `biopython`, `transformers` 
 - 详细的依赖列表请参考 `requirements.txt`
 
 ### 安装步骤
