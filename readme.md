@@ -31,7 +31,6 @@ PEADL aims to build a revolutionary integrated platform that leverages LLM and o
 
 **Applications of PEADL:**
 
-* **💊 Innovative Drug Discovery:** Design novel protein drugs with specific targeting and therapeutic effects.
 * **🏭 Biopharmaceutical Optimization:** Enhance the stability, activity, production efficiency of existing biopharmaceuticals and reduce production costs.
 * **🌱 Synthetic Biology Research:** Explore and construct biological components and pathways with specific functions.
 * **🎓 Education and Research Exploration:** Provide powerful automated tools for students and researchers to accelerate learning and experimental processes.
