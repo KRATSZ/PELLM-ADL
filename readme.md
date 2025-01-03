@@ -45,7 +45,6 @@ PEADL adopts an advanced multi-agent architecture, with each agent performing sp
 * **Automated Experimental Workflow Orchestration:** Transforms design plans into executable automated experimental protocols.
 * **Active Learning and Reinforcement Learning:** Used to optimize experimental parameters and design strategies.
 
-[Please add more detailed technical architecture diagram here]
 
 ## 🛠️ Installation
 
@@ -60,8 +59,8 @@ To install and run the PEADL project, you need the following environment and dep
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/PEADL.git
-   cd PEADL
+   git clone https://github.com/KRATSZ/PELLM-ADL.git
+   cd PELLM-ADL
    ```
 
 2. **Create and activate a virtual environment (recommended):**
