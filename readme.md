@@ -1,7 +1,5 @@
 # 🚀Hands-on Protein Exploration: An LLM-Assisted Automated Discovery Lab🧬
 
-**PEADL (Protein Engineering Automated Discovery Laboratory)** is a pioneering platform that leverages the power of Large Language Models (LLM) to enable autonomous discovery in protein design and engineering. We are committed to accelerating innovative protein design and optimization through automated processes and cutting-edge AI technologies, driving breakthroughs in biotechnology and pharmaceuticals.
-
 Architecture:
 ![PEADL Flowchart](https://github.com/user-attachments/assets/da4bbb0b-7395-492a-ba4a-202b57aabf9c)
 
