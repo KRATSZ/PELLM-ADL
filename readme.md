@@ -1,4 +1,4 @@
-# 🚀Hands-on Protein Exploration: An LLM-Assisted Automated Discovery Lab🧬
+# 🚀Hands-on Protein Exploration: An LLM-Assisted Automated Education Lab🧬
 
 Architecture:
 ![PEADL Flowchart](https://github.com/user-attachments/assets/da4bbb0b-7395-492a-ba4a-202b57aabf9c)
